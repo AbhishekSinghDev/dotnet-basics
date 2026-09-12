@@ -55,3 +55,8 @@ CodeCoverage/
 *.VisualState.xml
 TestResult.xml
 nunit-*.xml
+
+# DB
+GameStore.db
+GameStore.db-shm
+GameStore.db-wal
